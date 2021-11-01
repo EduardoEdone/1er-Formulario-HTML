@@ -30,3 +30,15 @@ p input {
     letter-spacing: 3px;
     color: pink;
 }
+
+.config_correo {
+    border-radius: 2px green;
+    padding: 0 auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.config_correo:hover{
+    transform: scale(1,2);
+    letter-spacing: 3px;
+    color:red;
+}
