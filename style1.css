@@ -19,3 +19,14 @@ p input {
     border: purple;
     padding: 0 auto;
 }
+
+.custom_class{
+    border-radius: 4px;
+    background-color: orchid;
+}
+
+.custom_class:hover{
+    transform: scale(1,2);
+    letter-spacing: 3px;
+    color: pink;
+}
