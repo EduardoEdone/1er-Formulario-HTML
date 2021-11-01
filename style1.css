@@ -1,0 +1,21 @@
+html {
+    background-color: aqua;
+}
+
+h1 {
+    padding: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:medium;
+}
+
+body {
+    padding: 0 auto;
+    border-radius: 3px;
+    background-color: palegreen;
+    position: fixed;
+}
+
+p input {
+    border: purple;
+    padding: 0 auto;
+}
